@@ -1,7 +1,7 @@
 **TIME TRAVELLING MORSE CODE MACHINE**
-Project was made in Collaboration with Luca Bastone-Mohabir. 
 
-**PROOF OF CONCEPT**
+
+Project was made in Collaboration with Luca Bastone-Mohabir. 
 
 [DESIGN DOCUMENT](https://github.com/ShahriarAhnaf/Morse-Time-Machine/blob/master/assets/Concept%20Design%20Document.pdf)
 
