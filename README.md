@@ -2,7 +2,10 @@
 Project was made in Collaboration with Luca Bastone-Mohabir. 
 
 **PROOF OF CONCEPT**
+
 [DESIGN DOCUMENT](https://github.com/ShahriarAhnaf/Morse-Time-Machine/blob/master/assets/Concept%20Design%20Document.pdf)
+
+
 **STORY**
 In a year far far away, time travel has been invented and people frequently time travel in their own ships. 
 
